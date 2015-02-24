@@ -1,0 +1,6 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:peakbook/peakbook.github.io.git
+[submodule "themes/nofancy"]
+	path = themes/nofancy
+	url = https://github.com/gizak/nofancy

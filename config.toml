@@ -1,0 +1,8 @@
+baseurl = "http://peakbook.github.io/"
+title = "peakbook's weblog"
+copyright = "Copyleft (ɔ) peakbook All rights reversed."
+
+[author]
+    name = "peakbook"
+    twitter = "peakbook"
+    github = "peakbook"
