@@ -15,7 +15,7 @@ tags = [ "julia" ]
 Gadflyと組み合わせると，グラフがグリグリ動いてとても楽しい．  
 見た目もわかりやすくて，非常に良いですね．  
 
-例では，多項式の次数を$M$，L2正則化の係数を$\lambda=10^{\lambda_p}$としてます．  
+例では，多項式の次数を$M$，L2正則化の係数を$\lambda=10^{-\lambda_p}$としてます．  
 コードは[こちら](http://nbviewer.ipython.org/github/peakbook/julia_notebook/blob/master/interact/fitting.ipynb)．
 nbviewerではもちろんインタラクティブにはならないので悪しからず．
 
